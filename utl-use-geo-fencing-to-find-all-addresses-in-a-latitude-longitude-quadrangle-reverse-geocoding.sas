@@ -4,6 +4,10 @@
 
 Use geo fencing to find all addresses in a latitude longitude quadrangle reverse geocoding
 
+https://tinyurl.com/5cyvtnrs                                                                                                     
+https://github.com/rogerjdeangelis/utl-use-geo-fencing-to-find-all-addresses-in-a-latitude-longitude-quadrangle-reverse-geocoding
+
+
   CONTENTS
 
     MANUAL OPERATIONS (I could not do this two steps programatically, ms onedrive security issue?)
