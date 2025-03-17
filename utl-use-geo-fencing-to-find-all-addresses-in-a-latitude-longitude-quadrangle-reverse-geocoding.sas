@@ -307,6 +307,26 @@ https://github.com/rogerjdeangelis/utl-validate-email-address-and-domain-python
 https://github.com/rogerjdeangelis/utl_US_address-standardization
 https://github.com/rogerjdeangelis/utl_geocode_and_reverse_geocode_netherland_addresses_and_latitudes_longitudes
 
+                                                                                                                              
+https://github.com/rogerjdeangelis/utl-add-points-to-a-map-of-slovakia                                                        
+https://github.com/rogerjdeangelis/utl-creating-zipcode-zcta-choropleth-maps-in-R-and-SAS                                     
+https://github.com/rogerjdeangelis/utl-drawing-a-world-map-using-the-eckert-projection-ggplot-map-rnaturalearth               
+https://github.com/rogerjdeangelis/utl-gis-census-zipcode-maps-no-credit-card-api-or-restrictions-wps-r-tmap                  
+https://github.com/rogerjdeangelis/utl-gis-mapping-with-r-package-rnaturalearth-no-api-credit-card-or-access-limits-          
+https://github.com/rogerjdeangelis/utl-given-latitude-and-longitude-determine-the-us-state-mapping                            
+https://github.com/rogerjdeangelis/utl-programatically-download-census-tiger-shapefiles-and-map-us-labeling-largest-cities    
+https://github.com/rogerjdeangelis/utl-usmap-drilldown                                                                        
+https://github.com/rogerjdeangelis/utl_driving_distance_from_city_to_city_using_google_maps                                   
+https://github.com/rogerjdeangelis/utl_google_and_SAS_maps                                                                    
+https://github.com/rogerjdeangelis/utl_google_map_of_USA_with_long_and_lat_and_earnings                                       
+https://github.com/rogerjdeangelis/utl_google_map_of_earnings_for_canada_cities                                               
+https://github.com/rogerjdeangelis/utl_graphics_zipcode_boundary_maps                                                         
+https://github.com/rogerjdeangelis/utl_javascript_and_classic_map_graphics_with_mouseovers_and_multiple_drilldowns            
+https://github.com/rogerjdeangelis/utl_map_counties_within_one_state_choropleth_map                                           
+https://github.com/rogerjdeangelis/utl_proc_gmap_classic_graphics_grid_containing_four_states                                 
+https://github.com/rogerjdeangelis/utl_where_am_i_show_the_street_or_satelite_map                                             
+                                                                                                                              
+
 /*              _
   ___ _ __   __| |
  / _ \ `_ \ / _` |
