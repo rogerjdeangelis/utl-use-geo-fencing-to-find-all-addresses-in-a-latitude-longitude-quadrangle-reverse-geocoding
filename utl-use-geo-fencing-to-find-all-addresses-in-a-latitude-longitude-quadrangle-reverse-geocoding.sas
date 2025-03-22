@@ -15,7 +15,8 @@ https://drive.google.com/file/d/1j3u9g9X4t5GYoz4O62oEs63RVp_qSlhq/view?usp=drive
       1  download adr_fix132e6.exe 1432 million addresses (1.45gb win10) into d:/adr/exe/adr_fix132e6.exe
          https://1drv.ms/u/c/bb0f3c4c9b1dc58b/EeJAnwdAgy9Oo1C4IIzf_VIBVcUhQGZRHBZZ2ulv0gICSQ?e=LXtbdk
          https://drive.google.com/file/d/1j3u9g9X4t5GYoz4O62oEs63RVp_qSlhq/view?usp=drive_link
-         
+         https://www.dropbox.com/scl/fi/hijvujwjotftaqiu93dgt/adr_fix132e6.exe?rlkey=efa8b49x52tpc25kz1vloc06g&st=f8insd26&dl=0
+
       2  Unzip the self extracting 7-zip file you downloaded save in d:/adr/csv/adr_fix132e6.csv
          Just click on the exe file (131,789,977 records)
 
